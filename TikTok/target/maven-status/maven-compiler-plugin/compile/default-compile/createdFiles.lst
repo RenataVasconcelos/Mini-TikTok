@@ -1,0 +1,13 @@
+repository/UsuarioRepository$1.class
+model/Usuario.class
+service/HashtagService.class
+model/Comentario.class
+util/LocalDateTimeAdapter.class
+util/IdGenerator.class
+service/RelacionamentoService.class
+repository/UsuarioRepository.class
+app/Main.class
+service/FeedService.class
+model/Video.class
+repository/VideoRepository.class
+repository/VideoRepository$1.class

@@ -1,0 +1,11 @@
+/home/renata/NetBeansProjects/TikTok/src/main/java/app/Main.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/model/Comentario.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/model/Usuario.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/model/Video.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/repository/UsuarioRepository.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/repository/VideoRepository.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/service/FeedService.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/service/HashtagService.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/service/RelacionamentoService.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/util/IdGenerator.java
+/home/renata/NetBeansProjects/TikTok/src/main/java/util/LocalDateTimeAdapter.java
